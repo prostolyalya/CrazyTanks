@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  wall.cpp
+  utils.cpp
+d:\c\crazytanks\crazytanks\utils.cpp(21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  tankPlayer.cpp
+  tankEnemy.cpp
+  tank.cpp
+d:\c\crazytanks\crazytanks\tank.cpp(136): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(137): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(141): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(142): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(145): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(146): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(149): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\tank.cpp(150): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  renderSystem.cpp
+d:\c\crazytanks\crazytanks\rendersystem.cpp(88): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "ConsoleSymbolData"
+  gameObject.cpp
+  game.cpp
+d:\c\crazytanks\crazytanks\game.cpp(30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(124): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(153): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(242): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(243): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\c\crazytanks\crazytanks\game.cpp(273): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  enemySpawner.cpp
+  bullet.cpp
+  CrazyTanks.cpp
+  Создание кода...
+  CrazyTanks.vcxproj -> D:\C\CrazyTanks\Debug\CrazyTanks.exe
